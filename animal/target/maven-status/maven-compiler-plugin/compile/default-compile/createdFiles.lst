@@ -1,0 +1,4 @@
+br\com\animal\AnimalApplication.class
+br\com\animal\controller\AnimalController.class
+br\com\animal\repository\AnimalRepository.class
+br\com\animal\model\Animal.class
